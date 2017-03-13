@@ -23,7 +23,7 @@ para.gamma = 0.5;
 % para.gamma2  = -1; %scale factor in color based superpixel affinity
 para.nb = 1; % number of neighbors for superpixels (i.e.k-NN of superpixel)
 para.distType = 'LogEuclidean';
-%para.nb2 = 1;
+
 
 % read numbers of segments used in the paper 
 bsdsRoot = '..\..\BSR\BSDS500\data';
